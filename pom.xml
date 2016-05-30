@@ -68,13 +68,10 @@
 		</dependency>
 
 		<dependency>
-			<groupId>sample</groupId>
-			<artifactId>com.sample</artifactId>
+			<groupId>com.springGenericApi</groupId>
+			<artifactId>springGenericApi</artifactId>
 			<version>1.0</version>
-			<scope>system</scope>
-			<systemPath>${basedir}\src\main\resources\springGenericApi.jar</systemPath>
 		</dependency>
-
 	</dependencies>
 
 	<build>
